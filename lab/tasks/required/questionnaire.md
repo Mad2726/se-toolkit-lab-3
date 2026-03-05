@@ -34,7 +34,7 @@ TODO questions about what their specific request is
 ### PUT /items/{item_id}
 
 1. HTTP method: PUT
-2. Status code (updated successfully): 200
+2. Status code (updated successfully): 200*
 
 ## Authentication
 
